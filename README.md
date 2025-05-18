@@ -4,7 +4,7 @@ A passionate Full-Stack Developer with 3+ years of experience creating robust we
 
 - 🚀 Experienced in building scalable web applications for IT service agencies and startups.
 - 💻 Skilled in:  
-  **Frontend:** JavaScript, React  
+  **Frontend:** JavaScript, React, Next.js  
   **Backend:** Node.js, AWS, API development  
   **Database:** MySQL, MongoDB  
 - ☁️ Proficient with AWS Cloud services.
